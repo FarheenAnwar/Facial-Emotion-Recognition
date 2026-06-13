@@ -1,0 +1,25 @@
+ 
+# Dataset (too large)
+dataset/
+
+# Virtual environment
+venv311/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model file (too large)
+models/emotion_model.h5
+
+# Screenshots
+screenshots/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Emotion history
+emotion_history.csv
